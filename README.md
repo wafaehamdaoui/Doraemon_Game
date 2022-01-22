@@ -1,6 +1,5 @@
-# Doraemon_Game
-Final Project
-<!DOCTYPE html>
+# FINAL PROJECT
+
 <html>
 
  
@@ -106,17 +105,12 @@ challenges.</li>
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">A.belcaid</li><li><a class="u-email" href="mailto:anass.belcaid@gmail.com">anass.belcaid@gmail.com</a></li></ul>
+          <li class="p-name">A.belcaid</li><li><a class="u-email" href="mailto:anass.belcaid@gmail.com">wafae.hamdaoui@eidia.ueuromed.org</a></li></ul>
       </div>
 
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/anassBelcaid" target="_blank"><i class="fab fa-github"></i> <span class="username">anassBelcaid</span></a></li></ul>
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/wafaehamdaoui" target="_blank"><i class="fab fa-github"></i> <span class="username">wafaehamdaoui</span></a></li></ul>
 </div>
 
-      <div class="footer-col footer-col-3">
-        <p>&copy; Copyright 2021 Euromed University. <br />
-        Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-</p>
-      </div>
     </div>
 
   </div>
@@ -169,4 +163,4 @@ ga('send', 'pageview');
 
   </body>
 
-</html>
+
