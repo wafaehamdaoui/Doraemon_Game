@@ -70,27 +70,6 @@ challenges.</li>
 </div>
 
 
-  <!-- Announcements  -->
-  <div class="news">
-  <h2>Announcements</h2>
-  
-    <table>
-    
-    
-      <tr>
-        <td class="date">Aug 19, 2019</td>
-        <td class="announcement">
-          
-            <a class="announcements-title" href="/announcements/2019-08-26-description/">Formal Course Description</a>
-          
-        </td>
-      </tr>
-    
-    </table>
-  
-</div>
-
-
 </div>
 
       </div>
@@ -100,12 +79,12 @@ challenges.</li>
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">C++ GUI Programming with QT</h2>
+    <h2 class="footer-heading">I hope you enjoy playing this game </h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">A.belcaid</li><li><a class="u-email" href="mailto:anass.belcaid@gmail.com">wafae.hamdaoui@eidia.ueuromed.org</a></li></ul>
+          <li class="p-name">W.hamdaoui</li><li><a class="u-email" href="mailto:wafae.hamdaoui@eidia.ueuromed.org">wafae.hamdaoui@eidia.ueuromed.org</a></li></ul>
       </div>
 
       <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/wafaehamdaoui" target="_blank"><i class="fab fa-github"></i> <span class="username">wafaehamdaoui</span></a></li></ul>
@@ -116,51 +95,15 @@ challenges.</li>
   </div>
 
 </footer>
-
-
-    <!-- Load jQuery -->
-<script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
-
-<!-- Load Common JS -->
-<script src="/assets/js/common.js"></script>
-
-
-<!-- Load KaTeX -->
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.1/katex.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.1/katex.min.js"></script>
-<script src="/assets/js/katex.js"></script>
+ 
+  <div class="news">
+    <table>
+      <tr>
+        <td class="date">6/2/2022</td>
+      </tr>
+    </table>  
+</div>
 
 
 
-<!-- Load Anchor JS -->
-<script src="//cdnjs.cloudflare.com/ajax/libs/anchor-js/3.2.2/anchor.min.js"></script>
-<script>
-  anchors.options.visible = 'hover';
-  anchors.add('article h2, article h3, article h4, article h5, article h6');
-</script>
-
-
-
-<!-- Adjust LaTeX JS -->
-<script src="/assets/js/latex.js"></script>
-
-
-<!-- Include custom icon fonts -->
-<link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
-<link rel="stylesheet" href="/assets/css/academicons.min.css">
-
-<!-- Google Analytics -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', '', 'auto');
-ga('send', 'pageview');
-</script>
-
-
-  </body>
-
-
+  
